@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 # Israel Flores
 
-Software developer at Kince IT
+Software developer at iNBest
